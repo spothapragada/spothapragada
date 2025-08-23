@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @spothapragada
 - 👀 I’m interested in Entity Resolution, Network Graphs and Machine Learning
 - 🌱 I’m currently learning Graph ML Algorithms
-- 💞️ I’m looking to collaborate on Data Quality and Data Governance initiatives
+- 💞️ I’m looking to collaborate on AI-powered IoT and Physics Informed ML
 - 📫 How to reach me : email me -> sri.pothapragada@gmail.com
 
 <!---
